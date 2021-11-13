@@ -1,4 +1,4 @@
 {
-    "emmet.extensionsPath": ".vscode/snippets.json",
-    "git.ignoreLimitWarning": true
+  "emmet.extensionsPath": [".vscode/snippets.json"],
+  "git.ignoreLimitWarning": true
 }
